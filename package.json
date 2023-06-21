@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "jsonresume-theme-paper": "^0.5.0",
+    "jsonresume-theme-stackoverflow": "^2.0.2"
+  }
+}
