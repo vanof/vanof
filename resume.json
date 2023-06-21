@@ -1,161 +1,213 @@
 {
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
-    "name": "ivan",
-    "label": "Programmer",
-    "image": "",
+    "name": "Ivan Fomin",
+    "label": "System Administrator",
+    "image": "https://en.gravatar.com/userimage/85497028/bbab6dafde76950df0ad5e4ac6ef4a1c.png?size=350",
     "email": "vanoof32@gmail.com",
-    "phone": "(912) 555-4321",
-    "url": "http://richardhendricks.example.com",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinal!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "phone": "+995 (551)-14-4028",
+    "url": "https://vanof.github.io",
+    "summary": "бла бла бла",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
+      "address": "",
+      "city": "Tbilisi",
+      "countryCode": "GE",
+      "region": "Tbilisi"
+     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "neutralthoughts",
-        "url": ""
+        "network": "Telegram",
+        "username": "@vanof",
+        "url": "https://t.me/vanof"
       },
       {
-        "network": "SoundCloud",
-        "username": "dandymusicnl",
-        "url": "https://soundcloud.example.com/dandymusicnl"
+          "network": "LinkedIn",
+          "username": "vanof",
+          "url": "https://www.linkedin.com/in/vanof/"
       }
     ]
   },
   "work": [
     {
-      "name": "Pied Piper",
-      "location": "Palo Alto, CA",
-      "description": "Awesome compression company",
-      "position": "CEO/President",
-      "url": "http://piedpiper.example.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "name": "APEX project bureau",
+      "description": "Construction, Real Estate, Architecture",
+      "position": "System Administrator",
+      "url": "apex-project.ru/en",
+      "startDate": "2021-09",
+      "summary": "Remote first line support in HelpDesk system, including corporate VPN access and VDI solution. Diagnosing and solving various software and hardware problems.",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "url": "http://coderdojo.example.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
-      "highlights": [
-        "Awarded 'Teacher of the Month'"
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Oklahoma",
-      "url": "https://www.ou.edu/",
-      "area": "Information Technology",
-      "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "score": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
-    }
-  ],
-  "publications": [
-    {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014-10-01",
-      "url": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Web Development",
-      "level": "Master",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript"
+        "Migrated HelpDesk from GLPI to Zammad.",
+        "Deployed WikiJS platform, developed over 300 user and internal IT instructions.",
+        "Reworked the utility for automated creation of accounts for new users in AD.",
+        "Reworked a large part of puppet code base, created 80 new manifests.",
+        "Deployed additional software licensing services using guardant, wibukey."
       ]
     },
     {
-      "name": "Compression",
-      "level": "Master",
-      "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
+      "name": "School №1561",
+      "position": "IT Department Administrator",
+      "url": "sch1561uz.mskobr.ru",
+      "startDate": "2020-09",
+      "endDate": "2021-09",
+      "summary": "",
+      "highlights": [
+        "Organization of educational activities of the engineering division of the school with IT polygon, 1000 students per week.",
+        "Teaching robotics for grades 7 - 11 using Arduino, TinkerCad, Lego, ESP32, RaspberryPI.",
+        "Implemented \"Smart School\" project - distributed system of data collection and web visualization of temperature and humidity in school by Rapid SCADA on Raspberry Pi and sensor polling scripts on Python."
+      ]
+    },
+    {
+      "name": "School №1561",
+      "position": "Software Engineer",
+      "url": "sch1561uz.mskobr.ru",
+      "startDate": "2019-09",
+      "endDate": "2021-08",
+      "summary": "",
+      "highlights": [
+        "Commissioned a new engineering building with IT polygon - 200 units of various computer equipment, server equipment, PCs, 3D printers/scanners, CNC machines",
+        "Implemented a PyQT utility for testing language exam - listening, with real-time processing and visualization of the sound signal."
+      ]
+    },
+    {
+      "name": "School №1191",
+      "position": "Technology and Computer Science teacher",
+      "url": "sch1191sz.mskobr.ru",
+      "startDate": "2019-01",
+      "endDate": "2019-08",
+      "summary": "",
+      "highlights": [
+        "Development and teaching of a technology and computer science course.",
+        "Preparing students for robotics Olympiads and WorldSkills competitions in the competencies of \"Electronics\", \"Mobile Robotics\", \"Space Systems Engineering\"."
+      ]
+    },
+    {
+      "name": "Laboratory of Automated Systems (AS), LLC",
+      "description": "Electronics, Tool Engineering, Computers and Office Equipment",
+      "position": "Engineer",
+      "url": "www.actech.ru",
+      "startDate": "2016-01",
+      "endDate": "2018-12",
+      "summary": "",
+      "highlights": [
+        "Preparation of technical and commercial proposals, discussion of technical solutions with the customer.",
+        "Development of documentation.",
+        "Drawing up a list of purchased items and procurement of equipment.",
+        "Issuing of installation tasks and participation in the installation of the system.",
+        "Testing of systems and products including software products."
       ]
     }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Bauman Moscow State Technical University",
+      "area": "Robotics",
+      "studyType": "Courses",
+      "startDate": "2020",
+      "endDate": "2020"
+    },
+    {
+      "institution": "Moscow Aviation Institute (National Research University)",
+      "area": "Computer Science and Engineering",
+      "studyType": "Master",
+      "startDate": "2016",
+      "endDate": "2018", 
+      "courses": [
+        "Measuring and controlling systems"
+      ]
+    }, 
+    {
+      "institution": "Moscow Aviation Institute (National Research University)",
+      "area": "Computer Science and Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2012",
+      "endDate": "2016"
+    }
+  ],
+  "awards": [],
+  "certificates": [
+      {
+          "name": "Programming in Python",
+          "date": "2020-05-03",
+          "url": "https://stepik.org/cert/337699",
+          "issuer": "Bioinformatics Institute, stepic.org"
+      },
+      {
+        "name": "Neural Networks and Computer Vision",
+        "date": "2020-06-27",
+        "url": "https://stepik.org/cert/337699",
+        "issuer": "Samsung Research Russia Open Education, stepic.org"
+    } 
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Techical Support",
+      "level": "advanced",
+      "keywords": [
+        "Active Directory",
+        "Powershell",
+        "PsTools",
+        "Zabbix",
+        "Graylog"
+      ]
+    },
+    {
+      "name": "Software Orchestration",
+      "level": "intermediate",
+      "keywords": [
+        "Puppet",
+        "Foreman"
+      ]
+    },
+    {
+      "name": "Devops",
+      "level": "beginner",
+      "keywords": [
+        "Linux",
+        "Docker",
+        "Docker Compose",
+        "Portainer",
+        "Dozzle"
+      ]
+    },
+    {
+      "name": "Tech Writer",
+      "level": "advanced",
+      "keywords": [
+        "Markdown",
+        "WikiJS",
+        "Atlassian Jira"
+      ]
+    },
+    {
+      "name": "Common",
+      "level": "",
+      "keywords": [
+          "VSC",
+          "Gitlab",
+          "Python"
+      ]
+  }
   ],
   "languages": [
     {
       "language": "English",
-      "fluency": "Native speaker"
+      "fluency": "Intermediate"
+    },
+    {
+        "language": "Russian",
+        "fluency": "Native Speaker"
     }
   ],
   "interests": [
     {
-      "name": "Wildlife",
-      "keywords": [
-        "Ferrets",
-        "Unicorns"
-      ]
+      "name": "Film Photography",
+      "keywords": []
     }
   ],
-  "references": [
-    {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
-    }
-  ],
-  "projects": [
-    {
-      "name": "Miss Direction",
-      "description": "A mapping engine that misguides you",
-      "highlights": [
-        "Won award at AIHacks 2016",
-        "Built by all women team of newbie programmers",
-        "Using modern technologies such as GoogleMaps, Chrome Extension and Javascript"
-      ],
-      "keywords": [
-        "GoogleMaps",
-        "Chrome Extension",
-        "Javascript"
-      ],
-      "startDate": "2016-08-24",
-      "endDate": "2016-08-24",
-      "url": "missdirection.example.com",
-      "roles": [
-        "Team lead",
-        "Designer"
-      ],
-      "entity": "Smoogle",
-      "type": "application"
-    }
-  ],
+  "references": [],
+  "projects": [],
   "meta": {
     "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
     "version": "v1.0.0",
