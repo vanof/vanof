@@ -39,8 +39,8 @@
         "Migrated HelpDesk from GLPI to Zammad.",
         "Deployed WikiJS platform, developed over 300 user and internal IT instructions.",
         "Reworked the utility for automated creation of accounts for new users in AD.",
-        "Reworked a large part of puppet code base, created 80 new manifests.",
-        "Deployed additional software licensing services using guardant, wibukey."
+        "Reworked a large part of puppet code, created 80 new manifests.",
+        "Deployed additional software licensing services using Guardant, Wibukey."
       ]
     },
     {
