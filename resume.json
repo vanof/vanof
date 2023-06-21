@@ -32,7 +32,7 @@
       "name": "APEX project bureau",
       "description": "Construction, Real Estate, Architecture",
       "position": "System Administrator",
-      "url": "apex-project.ru/en",
+      "url": "https://apex-project.ru/en",
       "startDate": "2021-09",
       "summary": "Remote first line support in HelpDesk system. Diagnosing and solving various software and hardware problems, including corporate VPN access and VDI solution.",
       "highlights": [
@@ -46,7 +46,7 @@
     {
       "name": "School №1561",
       "position": "IT Department Administrator",
-      "url": "sch1561uz.mskobr.ru",
+      "url": "https://sch1561uz.mskobr.ru",
       "startDate": "2020-09",
       "endDate": "2021-09",
       "summary": "",
@@ -59,7 +59,7 @@
     {
       "name": "School №1561",
       "position": "Software Engineer",
-      "url": "sch1561uz.mskobr.ru",
+      "url": "https://sch1561uz.mskobr.ru",
       "startDate": "2019-09",
       "endDate": "2021-08",
       "summary": "",
@@ -70,8 +70,8 @@
     },
     {
       "name": "School №1191",
-      "position": "Technology and Computer Science teacher",
-      "url": "sch1191sz.mskobr.ru",
+      "position": "Technology and Computer Science Teacher",
+      "url": "https://sch1191sz.mskobr.ru",
       "startDate": "2019-01",
       "endDate": "2019-08",
       "summary": "",
@@ -84,7 +84,7 @@
       "name": "Laboratory of Automated Systems (AS), LLC",
       "description": "Electronics, Tool Engineering, Computers and Office Equipment",
       "position": "Engineer",
-      "url": "www.actech.ru",
+      "url": "https://www.actech.ru",
       "startDate": "2016-01",
       "endDate": "2018-12",
       "summary": "",
