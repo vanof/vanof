@@ -64,7 +64,7 @@
       "endDate": "2021-08",
       "summary": "",
       "highlights": [
-        "Commissioned a new engineering building with IT polygon - 200 units of various computer equipment, server equipment, PCs, 3D printers/scanners, CNC machines",
+        "Commissioned a new engineering building with IT polygon - 200 units of various computer equipment, server equipment, 3D printers/scanners",
         "Implemented a PyQT utility for testing language exam with real-time processing and visualization of the sound signal."
       ]
     },
@@ -159,7 +159,6 @@
       "level": "beginner",
       "keywords": [
         "Linux",
-        "Docker",
         "Docker Compose",
         "Portainer",
         "Dozzle"
