@@ -51,10 +51,10 @@
       "endDate": "2021-09",
       "summary": "",
       "highlights": [
-        "Organization of educational activities of the engineering division of the school with IT polygon, 1000 students per week.",
+        "Administer and organization of educational activities of the engineering division of the school \"IT polygon\", 1000 students per week.",
         "Teaching robotics for grades 7 - 11 using Arduino, TinkerCad, Lego, ESP32, RaspberryPI.",
         "Implemented \"Smart School\" project - distributed system of data collection and web visualization of temperature and humidity in school by Rapid SCADA on Raspberry Pi and sensor polling scripts on Python."
-      ]
+      ] 
     },
     {
       "name": "School №1561",
@@ -64,7 +64,7 @@
       "endDate": "2021-08",
       "summary": "",
       "highlights": [
-        "Commissioned a new engineering building with IT polygon - 200 units of various computer equipment, server equipment, 3D printers/scanners",
+        "Commissioned a new engineering education building \"IT polygon\" with 200 units of various computer and server equipment, 3D printers and scanners",
         "Implemented a PyQT utility for testing language exam with real-time processing and visualization of the sound signal."
       ]
     },
