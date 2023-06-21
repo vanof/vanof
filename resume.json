@@ -39,7 +39,7 @@
         "Migrated HelpDesk from GLPI to Zammad.",
         "Deployed WikiJS platform, developed over 300 user and internal IT instructions.",
         "Reworked the utility for automated creation of accounts for new users in AD.",
-        "Reworked a large part of puppet code, created 80 new manifests.",
+        "Reworked 60% of the company's puppet code, created 80 new manifests for software distribution.",
         "Deployed additional software licensing services using Guardant, Wibukey."
       ]
     },
@@ -110,18 +110,12 @@
       "institution": "Moscow Aviation Institute (National Research University)",
       "area": "Computer Science and Engineering",
       "studyType": "Master",
-      "startDate": "2016",
+      "startDate": "2012",
       "endDate": "2018", 
       "courses": [
-        "Measuring and controlling systems"
+        "Measuring and controlling systems",
+        "Computer Networks"
       ]
-    }, 
-    {
-      "institution": "Moscow Aviation Institute (National Research University)",
-      "area": "Computer Science and Engineering",
-      "studyType": "Bachelor",
-      "startDate": "2012",
-      "endDate": "2016"
     }
   ],
   "awards": [],
