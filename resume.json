@@ -34,13 +34,14 @@
       "position": "System Administrator",
       "url": "https://apex-project.ru/en",
       "startDate": "2021-09",
-      "summary": "Remote first line support in HelpDesk system. Diagnosing and solving various software and hardware problems, including corporate VPN access and VDI solution.",
+      "summary": "Remote first line support in HelpDesk system. Diagnosing and solving various software and hardware problems, including corporate VPN access.",
       "highlights": [
         "Migrated HelpDesk from GLPI to Zammad.",
         "Deployed WikiJS platform, developed over 300 user and internal IT instructions.",
         "Reworked the utility for automated creation of accounts for new users in AD.",
         "Reworked 60% of the company's puppet code, created 80 new manifests for software distribution.",
-        "Deployed additional software licensing services using Guardant, Wibukey."
+        "Deployed additional software licensing services using Guardant, Wibukey.",
+        "Deployed an enterprise instance of Stable Diffusion."
       ]
     },
     {
