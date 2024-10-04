@@ -2,58 +2,72 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Ivan Fomin",
-    "label": "System Administrator",
+    "label": "Support Engineer",
     "image": "https://en.gravatar.com/userimage/85497028/bbab6dafde76950df0ad5e4ac6ef4a1c.png?size=350",
     "email": "vanoof32@gmail.com",
-    "phone": "+995 (551)-14-4028",
     "url": "https://vanof.github.io",
-    "summary": "I am a dedicated system administrator who enjoys solving difficult technical problems and making sure they are resolved successfully. I love finding solutions to challenges and seeing projects all the way through. Supporting users and collegues is a top priority for me, and I always aim to provide excellent assistance and  ensuring that systems operate effectively.",
+    "summary": "",
     "location": {
-      "address": "",
-      "city": "Tbilisi",
-      "countryCode": "GE",
-      "region": "Tbilisi"
+      "city": "Yerevan",
+      "countryCode": "AM"
      },
     "profiles": [
       {
         "network": "Telegram",
         "username": "@vanof",
         "url": "https://t.me/vanof"
-      },
-      {
-          "network": "LinkedIn",
-          "username": "vanof",
-          "url": "https://www.linkedin.com/in/vanof/"
       }
     ]
   },
   "work": [
+    {
+      "name": "APEX soft",
+      "description": "IT consulting, system Integration",
+      "position": "Chief technical support specialist",
+      "url": "https://apex-soft.ru",
+      "startDate": "2024-07",
+      "summary": "Problem localization in corporate infrastructure. Administration of Active Directory, MS Exchange 2016, Atlassian Jira/Confluence. Support for a range of corporate systems and tools (Mattermost, Authentik, Bitwarden, Limesurvey, Wiki Outline, Wikijs, Nexcloud, OpenProject, Graphisoft BIMcloud, Business Studio, KES, Revit Server).",
+      "highlights": [
+        "Integrated data from inventory and AD using Python to helpdesk client cards",
+        "Configured service monitoring via Uptime-Kuma and Watchtower updates with notifications to Telegram/Mattermost.",
+        "Automated upload technical support metrics to Grafana and LDAP to Authentik synchronization."
+      ]
+    },
+    {
+      "name": "APEX soft",
+      "description": "IT consulting, system Integration",
+      "position": "Head of Technical Support department",
+      "url": "https://apex-soft.ru",
+      "startDate": "2023-11",
+      "endDate": "2024-07",
+      "summary": "Formation of a technical support team consisting of three employees, task distribution, and control of task fulfillment.",
+      "highlights": [
+        "Implementing service catalog and tickets processing lines, mentorship of new employees.",
+        "Maintaining license registry, timely deployment and updates (Autodesk, Guardant, Wibukey)."
+      ]
+    },
     {
       "name": "APEX project bureau",
       "description": "Construction, Real Estate, Architecture",
       "position": "System Administrator",
       "url": "https://apex-project.ru/en",
       "startDate": "2021-09",
-      "summary": "Remote first line support in HelpDesk system. Diagnosing and solving various software and hardware problems, including corporate VPN access.",
+      "endDate": "2023-11",
+      "summary": "Remote first line support in HelpDesk system. Diagnosing and solving various software and hardware problems, including corporate VPN access and VDI solution.",
       "highlights": [
-        "Migrated HelpDesk from GLPI to Zammad.",
-        "Deployed WikiJS platform, developed over 300 user and internal IT instructions.",
+        "Migrated HelpDesk from GLPI to Zammad Helpdesk, deployed WikiJS platform, developed over 300 user and internal IT instructions.",
         "Reworked the utility for automated creation of accounts for new users in AD.",
-        "Reworked 60% of the company's puppet code, created 80 new manifests for software distribution.",
-        "Deployed additional software licensing services using Guardant, Wibukey.",
-        "Deployed an enterprise instance of Stable Diffusion."
+        "Reworked 60% of the company's puppet dsl code, created 80 new manifests for software distribution."
       ]
     },
     {
       "name": "School №1561",
-      "position": "IT Department Administrator",
+      "position": "Head of IT Department",
       "url": "https://sch1561uz.mskobr.ru",
       "startDate": "2020-09",
       "endDate": "2021-09",
-      "summary": "",
+      "summary": "Administer and organization of educational and IT activities of the engineering division of the school \"IT polygon\", 1000 students per week, teaching robotics for grades 7 - 11 using Arduino, TinkerCad, Lego, ESP32, RaspberryPI.",
       "highlights": [
-        "Administer and organization of educational activities of the engineering division of the school \"IT polygon\", 1000 students per week.",
-        "Teaching robotics for grades 7 - 11 using Arduino, TinkerCad, Lego, ESP32, RaspberryPI.",
         "Implemented \"Smart School\" project - distributed system of data collection and web visualization of temperature and humidity in school by Rapid SCADA on Raspberry Pi and sensor polling scripts on Python."
       ] 
     },
@@ -63,10 +77,8 @@
       "url": "https://sch1561uz.mskobr.ru",
       "startDate": "2019-09",
       "endDate": "2021-08",
-      "summary": "",
+      "summary": "Technical support for over 300 school employees using AD, GLPI, G-Suite, Office 365. Commissioned a new engineering education building \"IT polygon\" with 200 units of various computer and server equipment, 3D printers and scanners.",
       "highlights": [
-        "Technical support for over 300 school employees using AD, GLPI, G-Suite, Office 365.",
-        "Commissioned a new engineering education building \"IT polygon\" with 200 units of various computer and server equipment, 3D printers and scanners.",
         "Implemented a PyQT utility for testing language exam with real-time processing and visualization of the sound signal."
       ]
     },
@@ -76,11 +88,7 @@
       "url": "https://sch1191sz.mskobr.ru",
       "startDate": "2019-01",
       "endDate": "2019-08",
-      "summary": "",
-      "highlights": [
-        "Development and teaching of a technology and computer science course.",
-        "Preparing students for robotics Olympiads and WorldSkills competitions in the competencies of \"Electronics\", \"Mobile Robotics\", \"Space Systems Engineering\"."
-      ]
+      "summary": "Development and teaching of computer science course, preparing students for robotics Olympiads and WorldSkills."
     },
     {
       "name": "Laboratory of Automated Systems (AS), LLC",
@@ -89,18 +97,18 @@
       "url": "https://actech.ru",
       "startDate": "2016-01",
       "endDate": "2018-12",
-      "summary": "",
-      "highlights": [
-        "Preparation of technical and commercial proposals, discussion of technical solutions with the customer.",
-        "Development of documentation.",
-        "Purchase of equipment for developed systems.",
-        "Issuing of installation tasks and participation in the installation of the system.",
-        "Testing of systems and products including software products."
-      ]
+      "summary": "Development of documentation, installation and testing of the system including software products."
     }
   ],
   "volunteer": [],
   "education": [
+    {
+      "institution": "Bauman Training Center “Specialist”",
+      "area": "Head of division",
+      "studyType": "Courses",
+      "startDate": "2024",
+      "endDate": "2024"
+    },
     {
       "institution": "Bauman Moscow State Technical University",
       "area": "Robotics",
@@ -145,35 +153,22 @@
         "Powershell",
         "PsTools",
         "Zabbix",
-        "Graylog"
-      ]
-    },
-    {
-      "name": "Software Orchestration",
-      "level": "intermediate",
-      "keywords": [
-        "Puppet",
-        "Foreman"
+        "Graylog",
+        "Atlassian Jira",
+        "DameWare"
       ]
     },
     {
       "name": "DevOps",
       "level": "beginner",
       "keywords": [
+        "Puppet",
+        "Foreman",
         "Linux",
         "Docker Compose",
         "Portainer",
         "Dozzle",
-        "VMware ESXi"
-      ]
-    },
-    {
-      "name": "Technical Writer",
-      "level": "advanced",
-      "keywords": [
-        "Markdown",
-        "WikiJS",
-        "Atlassian Jira"
+        "VMware ESXi\\vSphere"
       ]
     },
     {
@@ -182,14 +177,15 @@
       "keywords": [
           "VSC",
           "Gitlab",
-          "Python"
+          "Python",
+          "Markdown"
       ]
-  }
+    }   
   ],
   "languages": [
     {
       "language": "English",
-      "fluency": "Intermediate"
+      "fluency": "Pre-Intermediate"
     },
     {
         "language": "Russian",
