@@ -28,7 +28,7 @@
       "startDate": "2024-08",
       "summary": "Monitoring and localization problems in corporate infrastructure. Administration of Active Directory, MS Exchange 2016, Atlassian Jira/Confluence. Managing file resources and assigning access rights (ACL). Operate VMware vSphere, license servers (Windows Server), deploy and update licenses (Autodesk, Guardant, Wibukey). Support for a range of corporate systems and tools (Mattermost, Authentik, Bitwarden, Limesurvey, Wiki Outline, Wikijs, Nexcloud, OpenProject, Graphisoft BIMcloud, Business Studio, KES, Revit Server).",
       "highlights": [
-        "Integrated data from inventory and AD using Python to helpdesk client cards",
+        "Integrated data from inventory and AD using Python to Helpdesk client cards.",
         "Configured service monitoring via Uptime-Kuma and Watchtower updates with notifications to Telegram/Mattermost.",
         "Automated upload technical support metrics to Grafana and LDAP to Authentik synchronization."
       ]
@@ -40,9 +40,9 @@
       "url": "https://apex-project.ru/en",
       "startDate": "2023-11",
       "endDate": "2024-07",
-      "summary": "Lead of a technical support team, task distribution, and control of task fulfillment and SLA. Building communication with BIM\\DEV departments.",
+      "summary": "Lead of a technical support team, distribution and control of task\\SLA. Building communication with BIM\\DEV departments. Mentorship of new employees.",
       "highlights": [
-        "Introduced service catalog, SLA, formed a 5-person tech support departmen",
+        "Introduced service catalog, SLA, formed a 5-person tech support department.",
         "Migrated HelpDesk from GLPI to Zammad Helpdesk, migrated knowlede base from dokuwiki to wikijs."
       ]
     },
