@@ -6,7 +6,7 @@
     "image": "https://en.gravatar.com/userimage/85497028/bbab6dafde76950df0ad5e4ac6ef4a1c.png?size=350",
     "email": "vanoof32@gmail.com",
     "url": "https://vanof.github.io",
-    "summary": "",
+    "summary": "I am skilled at multitasking and automating routine tasks, understanding users' problems and solve it not “for a tick”. I enjoy learning new things and growing in my professional field.",
     "location": {
       "city": "Yerevan",
       "countryCode": "AM"
@@ -21,12 +21,12 @@
   },
   "work": [
     {
-      "name": "APEX soft",
+      "name": "APEX project bureau",
       "description": "IT consulting, system Integration",
       "position": "Chief technical support specialist",
-      "url": "https://apex-soft.ru",
-      "startDate": "2024-07",
-      "summary": "Problem localization in corporate infrastructure. Administration of Active Directory, MS Exchange 2016, Atlassian Jira/Confluence. Support for a range of corporate systems and tools (Mattermost, Authentik, Bitwarden, Limesurvey, Wiki Outline, Wikijs, Nexcloud, OpenProject, Graphisoft BIMcloud, Business Studio, KES, Revit Server).",
+      "url": "https://apex-project.ru/en",
+      "startDate": "2024-08",
+      "summary": "Monitoring and localization problems in corporate infrastructure. Administration of Active Directory, MS Exchange 2016, Atlassian Jira/Confluence. Managing file resources and assigning access rights (ACL). Operate VMware vSphere, license servers (Windows Server), deploy and update licenses (Autodesk, Guardant, Wibukey). Support for a range of corporate systems and tools (Mattermost, Authentik, Bitwarden, Limesurvey, Wiki Outline, Wikijs, Nexcloud, OpenProject, Graphisoft BIMcloud, Business Studio, KES, Revit Server).",
       "highlights": [
         "Integrated data from inventory and AD using Python to helpdesk client cards",
         "Configured service monitoring via Uptime-Kuma and Watchtower updates with notifications to Telegram/Mattermost.",
@@ -34,16 +34,16 @@
       ]
     },
     {
-      "name": "APEX soft",
+      "name": "APEX project bureau",
       "description": "IT consulting, system Integration",
       "position": "Head of Technical Support department",
-      "url": "https://apex-soft.ru",
+      "url": "https://apex-project.ru/en",
       "startDate": "2023-11",
       "endDate": "2024-07",
-      "summary": "Formation of a technical support team consisting of three employees, task distribution, and control of task fulfillment.",
+      "summary": "Lead of a technical support team, task distribution, and control of task fulfillment and SLA. Building communication with BIM\\DEV departments.",
       "highlights": [
-        "Implementing service catalog and tickets processing lines, mentorship of new employees.",
-        "Maintaining license registry, timely deployment and updates (Autodesk, Guardant, Wibukey)."
+        "Introduced service catalog, SLA, formed a 5-person tech support departmen",
+        "Migrated HelpDesk from GLPI to Zammad Helpdesk, migrated knowlede base from dokuwiki to wikijs."
       ]
     },
     {
@@ -55,8 +55,7 @@
       "endDate": "2023-11",
       "summary": "Remote first line support in HelpDesk system. Diagnosing and solving various software and hardware problems, including corporate VPN access and VDI solution.",
       "highlights": [
-        "Migrated HelpDesk from GLPI to Zammad Helpdesk, deployed WikiJS platform, developed over 300 user and internal IT instructions.",
-        "Reworked the utility for automated creation of accounts for new users in AD.",
+        "Create the utility for automated creation of accounts for new users in AD.",
         "Reworked 60% of the company's puppet dsl code, created 80 new manifests for software distribution."
       ]
     },
@@ -73,7 +72,7 @@
     },
     {
       "name": "School №1561",
-      "position": "Software Engineer",
+      "position": "System Administrator",
       "url": "https://sch1561uz.mskobr.ru",
       "startDate": "2019-09",
       "endDate": "2021-08",
